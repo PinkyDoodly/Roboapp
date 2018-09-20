@@ -1,0 +1,18 @@
+.card {
+  background-color: #98fb98;
+  border: solid 2px;
+  border-radius: 5px;
+  /* width: 220px; */
+  height: 300px;
+  -webkit-box-shadow: 3px 9px 25px -4px rgba(168,159,168,1);
+  -moz-box-shadow: 3px 9px 25px -4px rgba(168,159,168,1);
+  box-shadow: 3px 9px 25px -4px rgba(168,159,168,1);
+  padding: 30px;
+  margin: 5px;
+  display: inline-block;
+  border-color: #00ff00;
+  text-align: center;
+}
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }

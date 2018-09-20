@@ -1,0 +1,12 @@
+.pa2 {
+  padding: 10px;
+}
+
+.input {
+  padding: 5px;
+  background-color: lightblue;
+  height: 40px;
+  border-radius: 5px;
+  border: solid 1px;
+  border-color: #7697E9;
+}

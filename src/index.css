@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: linear-gradient(to right, #CAD7F9,#5982EC);
+}
+
+.tc {
+  text-align: center;
+}
+
+.font {
+  font-family: 'Baloo Tammudu', cursive;
+}
